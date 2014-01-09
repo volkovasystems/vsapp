@@ -4,3 +4,9 @@
 [submodule "barter-app"]
 	path = barter-app
 	url = https://github.com/monkeymouse/barter-app.git
+[submodule "siodina-app"]
+	path = siodina-app
+	url = https://github.com/volkovasystems/siodina-app.git
+[submodule "grocerybox-app"]
+	path = grocerybox-app
+	url = https://github.com/volkovasystems/grocerybox-app.git
